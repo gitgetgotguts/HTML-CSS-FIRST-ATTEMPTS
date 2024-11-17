@@ -1,0 +1,12 @@
+#box{
+display: flex;
+justify-content: space-around;
+flex-direction:column ;
+background-color: brown;
+height: 100%;
+}
+.sec{
+    background-color: white; 
+    height: 100%;
+
+}

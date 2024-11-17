@@ -1,0 +1,21 @@
+.desc {
+  text-decoration: double;
+  font-size: medium;
+  color: rgb(18, 2, 110);
+}
+#title {
+  text-decoration: double;
+  font-family: Verdana;
+  color: rgb(139, 102, 0);
+}
+li {
+  font-size: large;
+  text-decoration: underline;
+}
+h1,
+h2 {
+  text-align: center;
+}
+div {
+  color: blue;
+}

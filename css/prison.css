@@ -1,0 +1,56 @@
+.stick{
+    width: 35px;
+    height: 100%;
+    margin-right:  150px; 
+    margin-left: 150px;
+    
+}
+.sctick1{
+    z-index: 3;
+
+}
+.stick2{
+    z-index: 1;
+
+}
+#main{
+    display: flex;
+    justify-content: space-around;
+
+    margin-top: -10px;
+    margin-bottom: -20px;
+
+
+    align-items: stretch;
+    height: 100%;
+}
+html,body{
+    height: 100%;
+
+    width: 100%;
+
+}
+html{
+    background-image: url('../assets/PRISONN.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-width:fit-content;
+    background-position: top;
+    background-attachment: fixed;
+
+
+    
+} 
+#tex{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: fixed;
+
+    
+}
+#iconfixed{
+    width: 650px;
+    position: fixed;
+    z-index: 2;
+    bottom: 10%;
+    
+  }

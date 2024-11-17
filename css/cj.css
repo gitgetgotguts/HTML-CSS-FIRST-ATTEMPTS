@@ -1,0 +1,8 @@
+.img2{height: 25px;margin-inline: 10px;}
+.ffree{margin-inline: 10px;}
+#ul2{display:  flex;list-style-type: none; }
+
+#wrapper{
+    display: flex;
+    justify-content: center;
+}
